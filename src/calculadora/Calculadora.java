@@ -42,10 +42,10 @@ import javax.swing.*;
             setResizable(false);
             //Deixa a janela centralizada
             setLocationRelativeTo(null);
-            //Aparecer todos os butoes
+            //Aparecer todos os botões
             setLayout(null);
             Adiciona();
-            //Para aparecer os butões 
+            //Para aparecer os botões 
             setVisible(true);
             //Fecha a janela 
             setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
